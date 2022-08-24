@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654913679 source:c:\users\adones\downloads\c++ project\vaccine_system_c++\main.cpp
+	<iostream>
+	<string>
+	"citizen.h"
+	"admin.h"
+
+1654913915 c:\users\adones\downloads\c++ project\vaccine_system_c++\citizen.h
+	<string>
+
+1654913707 c:\users\adones\downloads\c++ project\vaccine_system_c++\admin.h
+	<string>
+	<ctime>
+	"citizen.h"
+	"dateutil.h"
+
+1654913851 c:\users\adones\downloads\c++ project\vaccine_system_c++\dateutil.h
+	<string>
+
